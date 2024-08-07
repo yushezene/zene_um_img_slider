@@ -30,6 +30,6 @@ image_slider_basic_zeneansari/
 - image3.jpeg
 - image4.jpeg
 - image5.jpeg
-- 
+
 Support:
 If you encounter any issues or have questions, feel free to contact.
